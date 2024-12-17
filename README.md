@@ -1,8 +1,6 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicluthfi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicluthfi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vicluthfi/vicluthfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
